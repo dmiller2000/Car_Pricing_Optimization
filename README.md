@@ -5,7 +5,7 @@ This data science project aims to identify and quantify the key factors that inf
 
 _Business Value Focused_—Delivering clear, actionable insights for the used car dealership that can directly impact their operations and profitability.
 
-_Technically Excellent_—Implementing thorough ML/AI techniques with precision to help you master these skills. This includes proper data preprocessing, feature engineering, model selection, hyperparameter tuning, and evaluation metrics.
+_Technically Excellent_—Implementing thorough ML/AI techniques with precision. This includes proper data preprocessing, feature engineering, model selection, hyperparameter tuning, and evaluation metrics.
 
 ## [Link to Notebook](car_price_analysis.ipynb) 
 
