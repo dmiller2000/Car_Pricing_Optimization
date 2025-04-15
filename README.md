@@ -3,6 +3,10 @@
 ## Project Overview
 This data science project aims to identify and quantify the key factors that influence car prices in the market. By analyzing various car attributes and their relationship with price, we provide insights that can help buyers, sellers, and dealerships make informed decisions. Analysis follows the CRISP-DM methodology.
 
+_Business Value Focused_—Delivering clear, actionable insights for the used car dealership that can directly impact their operations and profitability.
+
+_Technically Excellent_—Implementing thorough ML/AI techniques with precision to help you master these skills. This includes proper data preprocessing, feature engineering, model selection, hyperparameter tuning, and evaluation metrics.
+
 ## [Link to Notebook](car_price_analysis.ipynb) 
 
 https://colab.research.google.com/drive/1qhpHCJsbQRpK02bXLA1qovnRV7VDuwCc#scrollTo=LVncOjOoaqll
