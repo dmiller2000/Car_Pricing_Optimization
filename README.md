@@ -66,7 +66,7 @@ car-price-analysis/
 ├── README.md                       # Project overview and summary
 ├── car_price_analysis.ipynb        # Main Jupyter notebook with analysis
 └── data/                           # Data directory
-    └── car_data.csv                # Dataset of car listings
+    └── vehicles.csv                # Dataset of car listings
 ```
 
 ## Recommendations for Used Car Dealership:
