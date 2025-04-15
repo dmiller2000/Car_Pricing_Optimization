@@ -1,0 +1,53 @@
+# Core Data Manipulation
+pandas==2.1.4
+numpy==1.24.3
+
+# Data Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.16.1
+
+# Machine Learning
+scikit-learn==1.2.2
+scipy==1.10.1
+
+# Advanced Machine Learning
+xgboost==2.0.1
+lightgbm==4.1.0
+
+# Deep Learning (optional)
+tensorflow==2.13.0
+keras==2.13.1
+
+# Jupyter and Interactive Development
+jupyter==1.0.0
+notebook==6.5.4
+ipykernel==6.25.1
+
+# Data Preprocessing
+category_encoders==2.6.0
+
+# Feature Engineering
+feature-engine==1.6.2
+
+# Additional Utilities
+pyarrow==14.0.1  # Improved pandas I/O
+openpyxl==3.1.2  # Excel file handling
+xlrd==2.0.1
+
+# Statistical Analysis
+statsmodels==0.14.0
+
+# Optional: For geographic or spatial analysis
+geopandas==0.13.3
+
+# Optional: For performance profiling
+memory-profiler==0.60.0
+
+# Optional: For parallel processing
+dask==2023.8.1
+distributed==2023.8.1
+
+# Model Interpretability
+shap==0.42.1
+eli5==0.13.0
