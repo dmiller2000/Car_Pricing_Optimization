@@ -45,6 +45,14 @@ We tested several regression models to predict car prices:
 - Adjust pricing models to account for regional preferences.
 - Consider targeted marketing for vehicles with features undervalued by the market.
 
+## Additional Recommendations for Used Car Dealership:
+----------------------------------------
+1. Inventory Selection: Focus on acquiring vehicles with the features that most positively impact price.
+2. Pricing Strategy: Use the model to set competitive yet profitable prices.
+3. Marketing Focus: Highlight the high-value features in advertisements.
+4. Seasonal Adjustment: Consider adjustments based on time-related patterns identified.
+5. Customer Education: Inform customers about the key factors that influence resale value.
+
 ## Next Steps
 Future work could include:
 - Time series analysis of price trends
@@ -68,14 +76,6 @@ car-price-analysis/
 └── data/                           # Data directory
     └── vehicles.csv                # Dataset of car listings
 ```
-
-## Recommendations for Used Car Dealership:
-----------------------------------------
-1. Inventory Selection: Focus on acquiring vehicles with the features that most positively impact price.
-2. Pricing Strategy: Use the model to set competitive yet profitable prices.
-3. Marketing Focus: Highlight the high-value features in advertisements.
-4. Seasonal Adjustment: Consider adjustments based on time-related patterns identified.
-5. Customer Education: Inform customers about the key factors that influence resale value.
 
 ## Contact
 For questions or collaboration opportunities, please contact:
