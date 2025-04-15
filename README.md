@@ -5,7 +5,7 @@ This data science project aims to identify and quantify the key factors that inf
 
 ## [Link to Notebook](car_price_analysis.ipynb) 
 
-[https://colab.research.google.com/drive/1qhpHCJsbQRpK02bXLA1qovnRV7VDuwCc#scrollTo=_mcs-6fDnH46](url)
+https://colab.research.google.com/drive/1qhpHCJsbQRpK02bXLA1qovnRV7VDuwCc#scrollTo=LVncOjOoaqll
 
 ## Summary of Findings
 
